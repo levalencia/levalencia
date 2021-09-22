@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Lus Valencia</h1>
+<h1 align="center">Hi 👋, I'm Luis Valencia</h1>
 <h3 align="center">An enthusiast solutions architect focused on Azure Cloud Solutions and now Microsoft MVP in Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=levalencia&label=Profile%20views&color=0e75b6&style=flat" alt="levalencia" /> </p>
