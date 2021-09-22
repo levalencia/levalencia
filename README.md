@@ -26,6 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Feature normalization](http://luisevalencia.com/feature-normalization/)
+- [[Algorithms] - Linear regression Least- Squares](http://luisevalencia.com/algorithms/)
+- [[Algorithms] Understanding K-Nearest Neighbor (Regression)](http://luisevalencia.com/post/)
+- [Azure Machine Learning Environments](http://luisevalencia.com/azure-machine-learning-environments/)
+- [[Algorithms] Understanding K-nearest neighbors algorithm](http://luisevalencia.com/algorithms-understanding-k-nearest-neighbors-algorithm/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
