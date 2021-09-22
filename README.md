@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-6853
-Fork on GitHub
-1272
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lus Valencia</h1>
 <h3 align="center">An enthusiast solutions architect focused on Azure Cloud Solutions and now Microsoft MVP in Artificial Intelligence</h3>
 
