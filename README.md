@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Comunidad AI Live - November 25/26 2021](http://luisevalencia.com/comunidad-ai-live-november-25-26-2021/)
 - [[Algorithms] - Multi class classification](http://luisevalencia.com/multiclass-classification/)
 - [[Algorithms] - Support Vector Machines](http://luisevalencia.com/algorithms-support-vector-machines/)
 - [[Algorithms] - Logistic Regression](http://luisevalencia.com/algorithms-logistic-regression/)
 - [Ridge, Lasso, and Polynomial Linear Regression](http://luisevalencia.com/ridge-lasso-and-polynomial-linear-regression/)
-- [Feature normalization](http://luisevalencia.com/feature-normalization/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
