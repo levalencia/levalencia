@@ -26,11 +26,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating an experiment in Azure  ML using SDK](http://luisevalencia.com/creating-an-experiment-in-azure-ml-using-sdk/)
 - [Comunidad AI Live - Videos](http://luisevalencia.com/comunidad-ai-live-videos/)
 - [Comunidad AI Live - November 25/26 2021](http://luisevalencia.com/comunidad-ai-live-november-25-26-2021/)
 - [[Algorithms] - Multi class classification](http://luisevalencia.com/multiclass-classification/)
 - [[Algorithms] - Support Vector Machines](http://luisevalencia.com/algorithms-support-vector-machines/)
-- [[Algorithms] - Logistic Regression](http://luisevalencia.com/algorithms-logistic-regression/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
