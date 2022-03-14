@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Advanced Machine Learning Skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/levalencia](https://github.com/levalencia)
+- 👨‍💻 All of my recent Data Science projects are available at [https://github.com/levalencia/DataScienceProjects](https://github.com/levalencia/DataScienceProjects)
 
 - 📝 I regularly write articles on [luisevalencia.com](luisevalencia.com)
 
