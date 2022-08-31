@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **Advanced Machine Learning Skills**
 - 👨‍💻 All of my recent Data Science projects are available at [https://github.com/levalencia/DataScienceProjects](https://github.com/levalencia/DataScienceProjects)
-- 📝 I regularly write articles on [luisevalencia.com](luisevalencia.com)
+- 📝 I regularly write articles on [luisevalencia.com](https://medium.com/@luisevalencia)
 - 💬 Ask me about **Data Science, Machine Learning, AI, Python**
 - 📫 How to reach me **levm38@outlook.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/levalencia/](https://www.linkedin.com/in/levalencia/)
