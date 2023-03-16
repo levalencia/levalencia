@@ -23,7 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 💬 [Forecasting Energy Inflation in Belgium using SARIMAX Model](https://medium.com/python-in-plain-english/forecasting-energy-inflation-in-belgium-using-sarimax-model-fd26a8e30a6e)
-- 📝 Data Cleaning and Data Preparation with Python](https://medium.com/towardsdev/data-cleaning-and-data-preparation-with-python-3ee0db086d66)
+- 📝 [Data Cleaning and Data Preparation with Python](https://medium.com/towardsdev/data-cleaning-and-data-preparation-with-python-3ee0db086d66)
 - 🌱 [Gradient Booosting with LightGBM](https://medium.com/python-in-plain-english/gradient-boosting-with-lightgbm-c07280fa9541)
 - 🦾 [How to submit jobs in Azure ML using Azure ML Python SDK](https://medium.com/@luisevalencia/how-to-submit-jobs-in-azure-ml-using-azure-ml-python-sdk-7a15ffe23808)
  - 📢 [Twitter ‘#GunControl’ NLP Analysis with NLTK, Spacy & Visualizations with Matplotlib and Plotly](https://medium.com/python-in-plain-english/twitter-guncontrol-nlp-analysis-with-nltk-spacy-and-visualizations-with-matplotlib-and-plotly-f58afc51f069)
