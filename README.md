@@ -9,16 +9,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Luis Valencia</h1>
-<h3 align="center">Lead Data Scientist/ML Engineer at PwC Belgium  - Microsoft MVP in Artificial Intelligence</h3>
+<h3 align="center">I am a Data Scientist/ML Engineer working on NLP | | Passionate about Hugging Face Transfomers | Microsot MVP AI</h3>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 - 🌱 I’m currently learning **Advanced Machine Learning Skills**
 - 👨‍💻 All of my recent Data Science projects are available at [https://github.com/levalencia/DataScience-Portfolio](https://github.com/levalencia/DataScience-Portfolio)
 - 📝 I regularly write articles on [https://medium.com/@luisevalencia](https://medium.com/@luisevalencia)
-- 💬 Ask me about **Data Science, Machine Learning, AI, Python,  Azure ML**
+- 💬 Ask me about **Pytorch, Deep Learning, Hugging Face, Transformers, NLP, Data Science, Machine Learning, AI, Python,  Azure ML**
 - 📫 How to reach me **levm38@outlook.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/levalencia/](https://www.linkedin.com/in/levalencia/)
-- ⚡ Fun fact **I also produce music on my free time :)**
 
 
 #### Check out my latest blog posts:
