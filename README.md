@@ -12,7 +12,6 @@
 <h3 align="center">I am a Data Scientist/ML Engineer  | Passionate about Pytorch & HuggingFace Transfomers | Microsoft MVP AI</h3>
 
 - 🔭 I’m currently working on **Pytorch and HuggingFace Transformer** projects for my Portfolio.
-- 🌱 I’m currently learning **Pytorch, HuuggingFace Transformers**
 - 👨‍💻 All of my recent Data Science projects are available at [https://github.com/levalencia/DataScience-Portfolio](https://github.com/levalencia/DataScience-Portfolio)
 - 📝 I regularly write articles on [https://medium.com/@luisevalencia](https://medium.com/@luisevalencia)
 - 💬 Ask me about **Pytorch, Deep Learning, HuggingFace, Transformers, NLP, Data Science, Machine Learning, AI, Python,  Azure ML**
