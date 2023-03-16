@@ -28,7 +28,11 @@
 - 🦾 [How to submit jobs in Azure ML using Azure ML Python SDK](https://medium.com/@luisevalencia/how-to-submit-jobs-in-azure-ml-using-azure-ml-python-sdk-7a15ffe23808)
  - 📢 [Twitter ‘#GunControl’ NLP Analysis with NLTK, Spacy & Visualizations with Matplotlib and Plotly](https://medium.com/python-in-plain-english/twitter-guncontrol-nlp-analysis-with-nltk-spacy-and-visualizations-with-matplotlib-and-plotly-f58afc51f069)
  - 🔥 [How to properly manage Azure Notebooks Kernels and Conda Environments](https://medium.com/@luisevalencia/how-to-properly-manage-azure-notebooks-kernels-and-conda-environments-b0862f3eca51)
- - 🤖 [An Introduction to Recommender Systems Using LightFM in Azure ML](https://medium.com/python-in-plain-english/introduction-to-recommender-systems-using-lightfm-in-azure-ml-e86feaff6ac4)<!-- BLOG-POST-LIST:END -->
+ - 🤖 [An Introduction to Recommender Systems Using LightFM in Azure ML](https://medium.com/python-in-plain-english/introduction-to-recommender-systems-using-lightfm-in-azure-ml-e86feaff6ac4)
+ - 🔥 [How to use Geo Location for feature engineering using near by Points Of Interest](https://medium.com/python-in-plain-english/how-to-use-geo-location-for-feature-engineering-using-near-by-points-of-interest-563752e6ad26)
+ - 📝 [Automating Conda Environment Creation in Azure ML Compute Instances](https://medium.com/towardsdev/automating-conda-environment-creation-in-azure-ml-compute-instances-b0a7f8248cb9)
+ - 🤖 [How to Generate Synthetic Data with Faker in Python and Azure ML](https://medium.com/python-in-plain-english/how-to-generate-synthetic-data-with-faker-in-python-and-azure-ml-24f69ddaea0e)
+ - <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=levalencia&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=contribs" />
