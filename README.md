@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Luis Valencia</h1>
-<h3 align="center">I am a Data Scientist/ML Engineer  | Passionate about HuggingFace Transfomers | Microsoft MVP AI</h3>
+<h3 align="center">I am a Data Scientist/ML Engineer  | Passionate about Pytorch & HuggingFace Transfomers | Microsoft MVP AI</h3>
 
 - 🔭 I’m currently working on **Pytorch and HuggingFace Transformer** projects for my Portfolio.
 - 🌱 I’m currently learning **Pytorch, HuuggingFace Transformers**
