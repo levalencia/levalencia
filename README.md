@@ -23,7 +23,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - 🤖 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://medium.com/python-in-plain-english/creating-a-langchain-application-with-streamlit-openai-to-talk-to-your-own-text-documents-using-62c27fe49c63)
-- 🌱 [Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0}(https://medium.com/@luisevalencia/building-a-tinyvgg-model-from-scratch-to-classify-the-simpsons-characters-with-pytorch-2-0-eeebf5b67810)
+- 🌱 [Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0](https://medium.com/@luisevalencia/building-a-tinyvgg-model-from-scratch-to-classify-the-simpsons-characters-with-pytorch-2-0-eeebf5b67810)
 - 📝 [Fine-tuning DistilBERT with Your Own Dataset for Multi-classification Tasks](https://medium.com/python-in-plain-english/fine-tuning-distilbert-with-your-own-dataset-for-multi-classification-task-69f944189648)
 - 🔥 [Unlocking the Power of Transfer Learning in Image Classification with Pytorch](https://medium.com/python-in-plain-english/unlocking-the-power-of-transfer-learning-in-image-classification-with-pytorch-d3a8e9179cea)
 - 💬 [Forecasting Energy Inflation in Belgium using SARIMAX Model](https://medium.com/python-in-plain-english/forecasting-energy-inflation-in-belgium-using-sarimax-model-fd26a8e30a6e)
