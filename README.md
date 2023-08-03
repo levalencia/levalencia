@@ -9,12 +9,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Luis Valencia</h1>
-<h3 align="center">I am a Data Scientist/ML Engineer  | Passionate about Pytorch & HuggingFace Transfomers | Microsoft MVP AI</h3>
+<h3 align="center">I am a Senior Data Scientist & Machine Learning Engineer  | Passionate about LLMs, Working with Langchain, HuggingFace Transformers and Pytorch | Microsoft MVP AI</h3>
 
 - 🔭 I’m currently working on **LLM Apps with Langchain, Hugging Face Hub, Azure ML, Databricks** projects for my Portfolio.
 - 👨‍💻 All of my recent Data Science projects are available at [https://github.com/levalencia/DataScience-Portfolio](https://github.com/levalencia/DataScience-Portfolio)
 - 📝 I regularly write articles on [https://medium.com/@luisevalencia](https://medium.com/@luisevalencia)
-- 💬 Ask me about **Pytorch, Deep Learning, HuggingFace, Transformers, NLP, Data Science, Machine Learning, AI, Python,  Azure ML**
+- 💬 Ask me about **Langchain, Pytorch, Deep Learning, HuggingFace, Transformers, NLP, Data Science, Machine Learning, AI, Python,  Azure ML**
 - 📫 How to reach me **levm38@outlook.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/levalencia/](https://www.linkedin.com/in/levalencia/)
 
