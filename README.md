@@ -22,6 +22,7 @@
 #### Check out my latest blog posts:
 
 <!-- BLOG-POST-LIST:START -->
+- 📢 [Creating a Llama2 Managed Endpoint in Azure ML and Using it from Langchain](https://medium.com/python-in-plain-english/creating-a-llama2-managed-endpoint-in-azure-ml-and-using-it-from-langchain-7550f5dc26de)
 - 🤖 [Creating a Langchain application with Streamlit, OpenAI to talk to your own text documents using Pinecone as Vector DB](https://medium.com/python-in-plain-english/creating-a-langchain-application-with-streamlit-openai-to-talk-to-your-own-text-documents-using-62c27fe49c63)
 - 🌱 [Building a TinyVGG Model from Scratch to Classify The Simpsons Characters with PyTorch 2.0](https://medium.com/@luisevalencia/building-a-tinyvgg-model-from-scratch-to-classify-the-simpsons-characters-with-pytorch-2-0-eeebf5b67810)
 - 📝 [Fine-tuning DistilBERT with Your Own Dataset for Multi-classification Tasks](https://medium.com/python-in-plain-english/fine-tuning-distilbert-with-your-own-dataset-for-multi-classification-task-69f944189648)
