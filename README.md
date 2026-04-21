@@ -78,12 +78,26 @@
 - 36+ passing tests
 
 ### 🎧 DidListen (iOS App)
-> **Swift 6 iOS application** for audio recognition and listening tracking
+> **Production-grade audio intelligence** with hybrid speech-to-text
 
-- **Swift 6 with Strict Concurrency**: async/await, @MainActor, Sendable
-- **Clean Architecture**: Domain / Data / Presentation layers
-- **ShazamKit Integration**: Real-time audio matching
-- **SwiftData**: Persistent storage
+**Speech-to-Text Pipeline** (3 backends, switchable at runtime)
+- Local: **Whisper** (Tiny 39MB / Base 150MB / Medium 500MB via WhisperKit)
+- Cloud: **Azure AI Speech API**
+- On-device: Apple **SFSpeechRecognizer**
+
+**Voice AI Features**
+- **VAD** (Voice Activity Detection): RMS energy threshold with state machine
+- **Turn Detection**: SILENCE ↔ SPEAKING transition detection for live segments
+- **Speaker Recognition**: 256-dim deterministic embeddings with cosine matching
+- **Pre-roll Buffer**: 1-second circular buffer captures utterance start
+
+**Architecture**
+- Swift 6 Strict Concurrency (async/await, @MainActor, Sendable)
+- Clean Architecture (Domain/Data/Presentation)
+- MVVM + ObservableObject pattern
+- SwiftData persistence
+
+**Why it matters**: Real-time audio intelligence on-device - not just transcription, but understanding WHO is speaking, WHEN they speak, and WHAT they say.
 
 ### 🧩 agent-god-mode
 > **2300+ skill RAG vault** for AI coding agents
