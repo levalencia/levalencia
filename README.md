@@ -10,7 +10,12 @@
 
 ## 🔥 Currently Building
 
-**Production multi-agent LLM systems** (PDFAgent, TableAgent, SemanticReasoner) | **Local MLX deployment on Apple Silicon** | **Hardware/software co-design for extreme LLM optimization**
+**Production Multi-Agent LLM Systems** | **Agentic RAG Orchestration** | **Local MLX Deployment on Apple Silicon** | **Hardware/Software Co-Design**
+
+- PDFAgent + TableAgent + SemanticReasoner → biotech PDFs to structured datasets
+- Hybrid Redaction Engine: Regex + Azure OpenAI reasoning
+- Agentic RAG with OpenAI Agents SDK for parallel multi-index retrieval
+- Custom Metal GPU shaders for Apple Silicon optimization
 
 ---
 
@@ -26,50 +31,103 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![CoreML](https://img.shields.io/badge/-CoreML-000000?style=flat&logo=apple&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Python | PyTorch | MLX | LangChain | HuggingFace | vLLM | Go | Metal | Swift | CoreML | Azure ML**
+**Python | PyTorch | MLX | LangChain | HuggingFace | vLLM | Go | React | TypeScript | FastAPI | Swift | CoreML | Azure ML | Redis**
 
 ---
 
 ## 📂 Featured Projects
 
 ### 🏆 apple-silicon-llm-stack
-> Full ML pipeline: Python training → C++ inference → Go serving → SvelteKit UI
-- LoRA/QLoRA fine-tuning with 99% memory reduction
-- Custom Metal shaders for Apple Silicon GPU
-- CGO bridge between Go and C++
+> **4-project monorepo** - Full-stack ML pipeline for Apple Silicon optimization
+
+| Sub-project | Tech | HR-Friendly Description |
+|-------------|------|------------------------|
+| **mlx-tuner** | Python · MLX | LoRA/QLoRA fine-tuning with 99% memory reduction - distributed training optimization |
+| **metal-inference-core** | C++ · Metal | Custom GPU shaders - CUDA-equivalent low-level optimization for Apple Silicon |
+| **go-llm-gateway** | Go · CGO | High-performance API gateway with zero-copy CGO bridge - sub-millisecond latency |
+| **hardware-telemetry-ui** | SvelteKit · SSE | Real-time streaming telemetry dashboard with SSE |
 
 ### 🧠 HarmoniqHub (macOS App)
-> SwiftUI + SwiftData music library with real ML
-- **CoreML**: genre/mood classification
-- **ShazamKit + Chromaprint**: acoustic fingerprinting for duplicate detection
-- Azure Table Storage for <100ms cache response
+> Native SwiftUI music library with production ML pipelines
+
+- **AI Playlist Generation**: Intelligent playlist curation using ML models
+- **TensorFlow → MLX Conversion**: Optimized for Apple Silicon inference
+- **CoreML Classification**: Genre, mood, and theme detection
+- **ShazamKit + Chromaprint**: Acoustic fingerprinting for duplicate detection
+- **Azure Table Storage**: <100ms cache response times
+- **40% CPU Reduction**: Async audio processing with asyncio.Semaphore
 
 ### ⚡ SuperTradingGodMode
-> Go + Docker + Python production trading system
+> **Production trading research & backtesting platform**
+
+| Layer | Tech |
+|-------|------|
+| Frontend | React · TypeScript · Vite · lightweight-charts · TanStack Query · Zustand |
+| Backend | FastAPI · Pydantic v2 · SQLAlchemy |
+| Data | Parquet · Redis · RQ worker |
+| Infrastructure | Docker Compose · Pytest · Vitest |
+
+- Clean Architecture (Domain-first, SOLID principles)
+- Anti-lookahead backtesting validation
+- Walk-forward IS/OOS sweep mode
+- 36+ passing tests
+
+### 🎧 DidListen (iOS App)
+> **Swift 6 iOS application** for audio recognition and listening tracking
+
+- **Swift 6 with Strict Concurrency**: async/await, @MainActor, Sendable
+- **Clean Architecture**: Domain / Data / Presentation layers
+- **ShazamKit Integration**: Real-time audio matching
+- **SwiftData**: Persistent storage
 
 ### 🧩 agent-god-mode
-> 2300+ skill RAG vault for AI agents (OpenCode/Claude Code)
+> **2300+ skill RAG vault** for AI coding agents
+
+- Local embeddings using @xenova/transformers (CPU-only, no API keys)
+- Vector similarity search for just-in-time skill injection
+- OpenCode and Claude Code integration
+- Solves context bloat when loading thousands of skills
 
 ### 📊 DataScience-Portfolio
-> RAG, Azure ML, fine-tuning (DistilBERT, CNNs)
+> End-to-end ML pipelines and RAG systems
+
+- **RAG Pipelines**: LangChain, Pinecone, Azure Cognitive Search
+- **Fine-tuning**: DistilBERT, CNNs (Simpsons classifier)
+- **Cloud**: Azure ML, Databricks
+- **HuggingFace Transformers**: NLP, text classification
 
 ### 🔍 DuplicateFinder
-> CLIP + FAISS multi-modal deduplication (audio/image)
+> **Multi-modal deduplication** using vision AI
+
+- **CLIP**: Vision-language model for semantic image similarity (understands "this photo looks like that one")
+- **FAISS**: Billion-scale vector similarity search (finds nearest neighbors in milliseconds)
+- **Chromaprint**: Audio acoustic fingerprinting
+- **Streamlit UI**: Interactive visualization
 
 ### 🔎 deep-searcher
-> Deep research RAG on private data
+> **Deep research RAG** on private data
+
+- Open Source alternative to commercial deep research tools
+- Document ingestion, chunking, embedding
+- Multi-hop reasoning over private knowledge bases
 
 ---
 
 ## 📊 Production Impact
 
-| Achievement | Metric | Project |
-|-------------|--------|---------|
-| Defect classification | **98.3%** | ResNet-50 QC system (PwC) |
-| API cost reduction | **30%** | Databricks pipeline (Argenx) |
-| Forecast accuracy | **92%** | Predictive maintenance (element61) |
-| Waste reduction | **15%** | Early fault detection (PwC) |
+| Achievement | Metric | Project | Client |
+|-------------|--------|---------|--------|
+| Defect classification | **98.3%** | ResNet-50 CNN QC system | PwC |
+| API cost reduction | **30%** | Databricks pipeline | Argenx |
+| Forecast accuracy | **92%** | Predictive maintenance | element61 |
+| Waste reduction | **15%** | Early fault detection | PwC |
+| Cache response | **<100ms** | Azure Table Storage | HarmoniqHub |
+| CPU optimization | **40% reduction** | Async audio processing | HarmoniqHub |
 
 ---
 
@@ -81,7 +139,7 @@
 
 ## 📫 Contact
 
-📝 **Blog:** [medium.com/@luisevalencia](https://medium.com/@luisevalencia)
+📝 **Blog:** [medium.com/@luisevalencia](https://medium.com/@luisevalencia)  
 💼 **Career:** [linkedin.com/in/levalencia](https://www.linkedin.com/in/levalencia)
 
 <p align="center">
