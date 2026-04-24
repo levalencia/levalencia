@@ -29,12 +29,12 @@
 
 ### 🛠️ Personal Projects
 
-| Project | Focus |
-|---------|-------|
-| **HarmoniqHub** | Native macOS app with AI playlist generation, CoreML classification |
-| **SuperTradingGodMode** | Trading research platform with backtesting/sweeps |
-| **apple-silicon-llm-stack** | MLX fine-tuning, Metal shaders, Go API gateway |
-| **DidListen** | iOS app with Whisper, VAD, Speaker Recognition |
+| Project | Problem Solved | Tech |
+|---------|---------------|------|
+| **HarmoniqHub** | Music organization for DJs: manual playlist building is time-consuming, inconsistent track ordering, no intelligent suggestions. Solves: AI-powered playlist generation, automatic track ordering (energy/key compatibility), wave visualization, set management, duplicate detection via acoustic fingerprinting | SwiftUI, SwiftData, CoreML, Chromaprint, Azure Table Storage |
+| **SuperTradingGodMode** | Trading strategy optimization is what hyperparameter tuning is to ML - manual backtesting is slow, prone to overfitting. Solves: Parameterized strategy definition, automated walk-forward optimization, anti-lookahead validation, IS/OOS regime detection | React, TypeScript, FastAPI, Redis, RQ, Parquet, Pytest, Docker |
+| **apple-silicon-llm-stack** | Want to run LLaMA/Mistral locally on Mac but inference is slow, context windows are limited. Solves: Custom Metal GPU shaders for 8x speedup, Q4 quantization for 70B models in 24GB RAM, LoRA fine-tuning via MLX | Python, MLX, C++, Metal, Go, SvelteKit |
+| **DidListen** | Want to track what you listen during the day but existing apps don't capture speaker context. Solves: Real-time speech-to-text, speaker identification, turn detection for meeting notes, voice activity detection | Swift 6, WhisperKit, ShazamKit, Clean Architecture |
 
 ---
 
