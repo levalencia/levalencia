@@ -8,14 +8,25 @@
 
 ---
 
-## 🔥 Currently Building
+## 🔥 Currently Working On
 
-**Production Multi-Agent LLM Systems** | **Agentic RAG Orchestration** | **Local MLX Deployment on Apple Silicon** | **Hardware/Software Co-Design**
+### 🧠 Production AI Systems (Day Job - element61)
 
-- PDFAgent + TableAgent + SemanticReasoner → biotech PDFs to structured datasets
-- Hybrid Redaction Engine: Regex + Azure OpenAI reasoning
-- Agentic RAG with OpenAI Agents SDK for parallel multi-index retrieval
-- Custom Metal GPU shaders for Apple Silicon optimization
+| Client | Project | Tech |
+|--------|---------|------|
+| **element61** | Hybrid Redaction Framework | Multi-format: Regex + Azure OpenAI LLM |
+| **Flandersmake** | GenAI Orchestrator & Agentic RAG | OpenAI Agents SDK, FastAPI, Azure AI Search |
+| **Argenx** (Biotech) | Multi-Agent PDF Pipeline | PDFAgent + TableAgent + SemanticReasoner |
+| **Roularta** | AI-Redactor | SvelteKit + FastAPI + Docker |
+
+### 🛠️ Personal Projects ( evenings )
+
+| Project | Focus |
+|---------|-------|
+| **HarmoniqHub** | Native macOS app with AI playlist generation, CoreML classification |
+| **SuperTradingGodMode** | Trading research platform with backtesting/sweeps |
+| **apple-silicon-llm-stack** | MLX fine-tuning, Metal shaders, Go API gateway |
+| **DidListen** | iOS app with Whisper, VAD, Speaker Recognition |
 
 ---
 
