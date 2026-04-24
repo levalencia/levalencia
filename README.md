@@ -1,4 +1,5 @@
 # Luis Valencia
+**Microsoft MVP AI** (2015-2025) | **Author: "Mastering Scikit-Learn and PyTorch"** | **Senior AI Engineer | Multi-Agent Systems**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/levalencia/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20levalencia-blue?logo=linkedin&style=flat" /></a>
@@ -152,12 +153,6 @@
 - **Vector Search:** FAISS for billion-scale similarity in milliseconds
 - **UI:** Streamlit interactive dashboard with side-by-side preview
 - **Safety:** One-click undo, trash manager, exportable reports
-
----
-
-## 🏆 Credentials
-
-**Microsoft MVP AI** (2015-2025) | **Author: "Mastering Scikit-Learn and PyTorch"** | **10+ years in AI/ML**
 
 ---
 
