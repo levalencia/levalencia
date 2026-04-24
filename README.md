@@ -155,19 +155,6 @@
 
 ---
 
-## 📊 Production Impact
-
-| Achievement | Metric | Project |
-|-------------|--------|--------|
-| Defect classification | **98.3%** | ResNet-50 CNN QC system |
-| API cost reduction | **30%** | Databricks pipeline |
-| Forecast accuracy | **92%** | Predictive maintenance |
-| Waste reduction | **15%** | Early fault detection |
-| Cache response | **<100ms** | Azure Table Storage |
-| CPU optimization | **40% reduction** | Async audio processing |
-
----
-
 ## 🏆 Credentials
 
 **Microsoft MVP AI** (2015-2025) | **Author: "Mastering Scikit-Learn and PyTorch"** | **10+ years in AI/ML**
