@@ -10,16 +10,24 @@
 
 ## 🔥 Currently Working On
 
-### 🧠 Production AI Systems (Day Job - element61)
+### 🧠 Production AI Systems (Professional Work)
 
-| Client | Project | Tech |
-|--------|---------|------|
-| **element61** | Hybrid Redaction Framework | Multi-format: Regex + Azure OpenAI LLM |
-| **Flandersmake** | GenAI Orchestrator & Agentic RAG | OpenAI Agents SDK, FastAPI, Azure AI Search |
-| **Argenx** (Biotech) | Multi-Agent PDF Pipeline | PDFAgent + TableAgent + SemanticReasoner |
-| **Roularta** | AI-Redactor | SvelteKit + FastAPI + Docker |
+| Project Type | Business Problem Solved | Tech Stack |
+|--------------|-------------------------|------------|
+| **Hybrid Redaction Engine** | Privacy compliance - automatically detect and redact PII, legal, financial entities from documents with 99%+ accuracy using combined Regex + LLM reasoning | Azure OpenAI, Regex, Docker, Azure DevOps, CI/CD |
+| **Agentic RAG Orchestrator** | Enterprise knowledge access - autonomous multi-agent system that retrieves, ranks, and synthesizes answers from private knowledge bases | OpenAI Agents SDK, FastAPI, Azure AI Search, Redis, Semver |
+| **Multi-Agent PDF Pipeline** | Data extraction from complex documents - transforms unstructured biotech PDFs (clinical trials, regulatory filings) into structured datasets for analysis | Azure Document Intelligence, Azure OpenAI, Databricks, Docker |
+| **Editorial AI Platform** | Publishing automation - real-time document redaction for editorial teams with sub-second responsiveness | SvelteKit, FastAPI, Docker, Azure DevOps, CI/CD |
 
-### 🛠️ Personal Projects ( evenings )
+**Engineering Practices Across All Projects:**
+- ✅ CI/CD Pipelines (Azure DevOps)
+- ✅ Semantic Versioning with automated git tagging
+- ✅ Docker containerization (ACR deployment)
+- ✅ Infrastructure-as-Code
+- ✅ Clean Architecture (Domain-first, SOLID principles)
+- ✅ OpenTelemetry observability
+
+### 🛠️ Personal Projects
 
 | Project | Focus |
 |---------|-------|
