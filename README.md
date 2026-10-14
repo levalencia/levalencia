@@ -4,7 +4,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/levalencia/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-Follow%20levalencia-blue?logo=linkedin&style=flat" /></a>
   <a href="https://medium.com/@luisevalencia" target="_blank"><img src="https://img.shields.io/badge/Blog-medium.com%2F%40luisevalencia-blue?logo=medium&style=flat" /></a>
-  <img src="https://komarev.com/ghpvc/?username=levalencia&label=Profile%20views&color=0e75b6&style=flat" alt="levalencia" />
+
 </p>
 
 ---
